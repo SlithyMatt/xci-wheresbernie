@@ -1,0 +1,109 @@
+# Where's Bernie XCI Title Screen
+
+duration 1830
+
+# Uncomment below when/if you have title screen bitmap and/or music
+bitmap title.data
+music where.vgm
+
+# Start animation here
+sprite_frames 1 2 16
+sprite_frames 2 2 17
+sprite_frames 3 2 18
+sprite_frames 4 2 19
+sprite_frames 5 2 20
+sprite_frames 6 2 21
+sprite_frames 7 2 22
+sprite_frames 8 2 23
+sprite_frames 9 2 24
+sprite_frames 10 2 25
+sprite_frames 11 2 26
+sprite_frames 12 2 27
+sprite_frames 13 2 28
+sprite_frames 14 2 29
+sprite_frames 15 2 30
+sprite_frames 16 2 31
+sprite_frames 17 2 32
+sprite_frames 18 2 33
+sprite_frames 19 2 34
+sprite_frames 20 2 35
+sprite_frames 21 2 36
+sprite_frames 22 2 37
+sprite_frames 23 2 38
+sprite_frames 24 2 39
+sprite_frames 25 2 40
+sprite_frames 26 2 41
+sprite_frames 27 2 42
+sprite_frames 28 2 43
+sprite_frames 29 2 44
+sprite_frames 30 2 45
+sprite_frames 31 2 46
+sprite_frames 32 2 47
+
+sprite 1 336 128
+sprite 2 352 128
+sprite 3 368 128
+sprite 4 320 144
+sprite 5 336 144
+sprite 6 352 144
+sprite 7 368 144
+sprite 8 384 144
+sprite 9 320 160
+sprite 10 336 160
+sprite 11 352 160
+sprite 12 368 160
+sprite 13 384 160
+sprite 14 320 176
+sprite 15 336 176
+sprite 16 352 176
+sprite 17 368 176
+sprite 18 384 176
+sprite 19 320 192
+sprite 20 336 192
+sprite 21 352 192
+sprite 22 368 192
+sprite 23 384 192
+sprite 24 320 208
+sprite 25 336 208
+sprite 26 352 208
+sprite 27 368 208
+sprite 28 384 208
+sprite 29 320 224
+sprite 30 336 224
+sprite 31 352 224
+sprite 32 368 224
+
+wait 60
+
+sprite_move 1 2 90 -1 0
+sprite_move 2 2 90 -1 0
+sprite_move 3 2 90 -1 0
+sprite_move 4 2 90 -1 0
+sprite_move 5 2 90 -1 0
+sprite_move 6 2 90 -1 0
+sprite_move 7 2 90 -1 0
+sprite_move 8 2 90 -1 0
+sprite_move 9 2 90 -1 0
+sprite_move 10 2 90 -1 0
+sprite_move 11 2 90 -1 0
+sprite_move 12 2 90 -1 0
+sprite_move 13 2 90 -1 0
+sprite_move 14 2 90 -1 0
+sprite_move 15 2 90 -1 0
+sprite_move 16 2 90 -1 0
+sprite_move 17 2 90 -1 0
+sprite_move 18 2 90 -1 0
+sprite_move 19 2 90 -1 0
+sprite_move 20 2 90 -1 0
+sprite_move 21 2 90 -1 0
+sprite_move 22 2 90 -1 0
+sprite_move 23 2 90 -1 0
+sprite_move 24 2 90 -1 0
+sprite_move 25 2 90 -1 0
+sprite_move 26 2 90 -1 0
+sprite_move 27 2 90 -1 0
+sprite_move 28 2 90 -1 0
+sprite_move 29 2 90 -1 0
+sprite_move 30 2 90 -1 0
+sprite_move 31 2 90 -1 0
+sprite_move 32 2 90 -1 0

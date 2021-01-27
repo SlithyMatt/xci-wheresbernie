@@ -1,0 +1,37 @@
+# XCI Menu Template
+menu_bg 1         # menu text background color = white
+menu_fg 0         # menu text foreground color = black
+menu_lc 1         # Plain white square
+menu_sp 1         # Plain white square
+menu_rc 1         # Plain white square
+menu_div 2
+menu_check   88   # "X" ASCII character
+menu_uncheck 79   # "O" ASCII character
+
+# Only a single menu is required, and only the "new" menu_item is required
+# By default, all supported menu items are enabled and arranged with dividers
+# in these three menus: File, Sound and Help.
+menu Game
+menu_item new
+menu_item div
+menu_item exit
+menu Sound
+menu_item music
+menu_item sfx
+
+
+# text styles
+text1_bg 0 # text style 1 background color = black
+text1_fg 1 # text style 1 foreground color = white
+text2_bg 0
+text2_fg 7 # yellow
+text3_bg 0
+text3_fg 14 # light blue
+
+# Toolbar definition
+tb_dim 2 2
+tool look
+tool_tiles 6 7 8 9
+
+# Tool cursors
+look 48
