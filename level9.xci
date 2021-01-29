@@ -2,7 +2,7 @@
 
 # Uncomment below when/if you have level bitmap and/or music
 bitmap level9.data
-#music music.vgm
+music where.vgm
 
 init
 # Put initial animation here

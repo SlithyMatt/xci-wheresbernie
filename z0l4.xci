@@ -68,7 +68,7 @@ tool_trigger look 12 10 14 20
    wait 15
    play clip
    wait 240
-   go_level 0 9
+   go_level 0 5
 end_anim
 
 # Background
